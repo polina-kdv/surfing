@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Sora:wght@300&family=Spicy+Rice&display=swap') ;
+@import	url("components/container.css") ;
+@import	url("components/avatar.css") ;
+@import	url("components/button.css") ;
+@import	url("components/banner.css") ;
+@import	url("components/card.css") ;
+body {
+	font-family: Sora, sans-serif ;
+	font-optical-sizing: auto ;
+	font-weight: 400px ;
+	font-style: normal ;
+	font-size: 16px;
+	color: #061023 ;
+	background-color: #FEF9EB ;
+	text-align: justify;
+}
+h1, h2, h3 {
+	font-weight: 400px ;
+	font-style: normal ;
+	letter-spacing: 2px ;
+	color: #2060CD ;
+}
+h1 {
+	font-size: 42px ;
+	font-family: Spicy Rice, serif ;
+	margin-top: 100px ;
+	margin-bottom: 30px ;
+}
+h2, h3 {
+	font-family: Archivo Black, serif ;
+}
+h2 {
+	font-size: 24px ;
+	margin-top: 50px ;
+	margin-bottom: 30px;
+}
+h3 {
+	font-size: 20px ;
+	margin-top: 30px;
+	margin-bottom: 25px;
+	color: #061023;
+}
